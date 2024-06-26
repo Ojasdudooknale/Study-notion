@@ -24,7 +24,6 @@ app.use(cookieParser());
 app.use(
     cors({
         origin: "http://localhost:3000",  //handles request from frontend
-        origin: ['https://study-notion-pi-sand.vercel.app'],
         credentials: true,
     })
 )
