@@ -23,7 +23,8 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-        origin: "http://localhost:3000",  //handles request from frontend
+        origin: ["http://localhost:3000", "https://study-notion-ten-wine.vercel.app"],  //handles request from frontend
+
         credentials: true,
     })
 )
