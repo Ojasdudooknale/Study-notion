@@ -5,7 +5,7 @@
 Experience StudyNotion in action by visiting our [live demo][https://study-notion-ten-wine.vercel.app/].
 
 ### Video Demo
-Watch a detailed demonstration of StudyNotion's features in our [video demo on Google Drive](https://drive.google.com).
+Watch a detailed demonstration of StudyNotion's features in our [video demo on Google Drive](https://drive.google.com/drive/folders/14DqJc4fMaVbJlxtU5U2T4O0s-GvO2Nuh?usp=sharing).
 
 
 StudyNotion is a comprehensive ed-tech platform designed to revolutionize the way students learn and instructors teach. Built on the MERN stack (MongoDB, Express.js, React.js, Node.js), StudyNotion empowers users to create, consume, and rate educational content seamlessly.
